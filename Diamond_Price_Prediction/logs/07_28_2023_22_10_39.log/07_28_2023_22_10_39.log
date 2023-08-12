@@ -1,4 +1,0 @@
-[ 2023-07-28 22:10:40,376 ] 23 root - INFO - Data Ingestion Starts
-[ 2023-07-28 22:10:40,449 ] 27 root - INFO - Dataset reading happening
-[ 2023-07-28 22:10:40,868 ] 31 root - INFO - Raaw data created
-[ 2023-07-28 22:10:40,868 ] 44 root - INFO - Error occured at data ingestion stage
